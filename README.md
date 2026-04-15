@@ -1,6 +1,6 @@
 # Track Agent
 
-Reads Gmail, classifies job-related emails with Claude, and syncs application status to a Notion database. Sends a nightly digest.
+Reads Gmail, classifies job-related emails with Claude, and syncs application status to a Notion database. Sends a nightly digest. Runs Locally on your terminal with LaunchAgent.
 
 ## Setup
 
