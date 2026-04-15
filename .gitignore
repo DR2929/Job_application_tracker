@@ -1,0 +1,10 @@
+.env
+token.json
+credentials.json
+state.json
+failed_queue.json
+skipped.log
+tracker.log
+__pycache__/
+*.pyc
+.pytest_cache/
